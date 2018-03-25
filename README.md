@@ -13,7 +13,7 @@ npm install store-server
 ```
 
 ## Deployment
-To deploy this this server simply run the following code line:
+To deploy this server simply run the following code line:
 
 ```
 npm start
