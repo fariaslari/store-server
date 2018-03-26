@@ -11,7 +11,8 @@
         "installments": 9,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image": "https://static.netshoes.com.br/produtos/camisa-corinthians-i-1718-sn-torcedor-nike-masculina/28/D12-6980-028/D12-6980-028_detalhe1.jpg"
       },
   
       {
@@ -25,7 +26,8 @@
         "installments": 9,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image": "https://static.netshoes.com.br/produtos/camisa-corinthians-ii-1718-sn-torcedor-nike-masculina/26/D12-6982-026/D12-6982-026_detalhe1.jpg"
       },
   
       {
@@ -39,7 +41,8 @@
         "installments": 7,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-feminina-nike-corinthians-i-1415-sn/28/004-6435-028/004-6435-028_zoom1.jpg"
       },
   
       {
@@ -53,7 +56,8 @@
         "installments": 7,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-nike-corinthians-ii-1314-sn/06/123-4389-006/123-4389-006_zoom1.jpg"
       },
   
       {
@@ -67,7 +71,8 @@
         "installments": 12,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": false
+        "isFreeShipping": false,
+		"image":"https://static.netshoes.com.br/produtos/camisa-nike-corinthians-i-1415-sn-torcedor/28/004-6426-028/004-6426-028_zoom1.jpg"
       },
   
       {
@@ -81,7 +86,8 @@
         "installments": 9,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": false
+        "isFreeShipping": false,
+		"image":"https://static.netshoes.com.br/produtos/camisa-nike-corinthians-ii-1415-sn-torcedor/26/004-6437-026/004-6437-026_zoom1.jpg"
       },
   
       {
@@ -95,7 +101,8 @@
         "installments": 0,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/calcao-corinthians-i-1718-nike-masculino/28/D12-6966-028/D12-6966-028_detalhe1.jpg"
       },
   
       {
@@ -109,7 +116,8 @@
         "installments": 4,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-retro-corinthians-replica-1977-masculina/26/992-8809-026/992-8809-026_detalhe1.jpg"
       },
   
       {
@@ -123,7 +131,8 @@
         "installments": 4,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": false
+        "isFreeShipping": false,
+		"image":"https://static.netshoes.com.br/produtos/calcao-nike-dry-academy-masculino/34/D12-3203-834/D12-3203-834_detalhe1.jpg"
       },
   
       {
@@ -137,7 +146,8 @@
         "installments": 5,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/jaqueta-corinthians-light-stuff/06/D65-1559-006/D65-1559-006_detalhe1.jpg"
       },
   
       {
@@ -151,7 +161,8 @@
         "installments": 9,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/jaqueta-corinthians-17-com-capuz/06/D65-1384-006/D65-1384-006_detalhe1.jpg"
       },
   
       {
@@ -165,7 +176,8 @@
         "installments": 3,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/agasalho-corinthians-trilobal-archer/06/D65-1520-006/D65-1520-006_detalhe1.jpg"
       },
   
       {
@@ -179,7 +191,8 @@
         "installments": 9,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/tenis-nike-air-relentless-6-msl-feminino/26/D12-2882-026/D12-2882-026_detalhe1.jpg"
       },
   
       {
@@ -193,7 +206,8 @@
         "installments": 5,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/tenis-nike-primo-court-canvas/06/004-6187-006/004-6187-006_detalhe1.jpg"
       },
   
       {
@@ -207,7 +221,8 @@
         "installments": 3,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-nike-academy-masculina/56/D12-3199-056/D12-3199-056_detalhe1.jpg"
       },
   
       {
@@ -221,7 +236,8 @@
         "installments": 5,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-nike-corinthians-treino-2014/42/004-4796-342/004-4796-342_zoom1.jpg"
       },
   
       {
@@ -235,7 +251,8 @@
         "installments": 5,
         "currencyId": "BRL",
         "currencyFormat": "R$",
-        "isFreeShipping": true
+        "isFreeShipping": true,
+		"image":"https://static.netshoes.com.br/produtos/camisa-polo-corinthian-casuals-retro-ouro-masculina/06/992-8826-006/992-8826-006_detalhe1.jpg"
       }
     ]
   }
